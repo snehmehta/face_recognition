@@ -9,7 +9,9 @@ Recognition of face live from webcam
 - Clone entire repository
 - Goto folder in which cloning is done 
 > Create a folder named as "image" 
-- Place 
+> Your image folder should like..
+![sc1](https://user-images.githubusercontent.com/36638657/44214919-d671a480-a18e-11e8-9382-8b3a2e2cea25.png)
+
 
 
 # Video 
