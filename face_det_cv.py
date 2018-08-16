@@ -3,7 +3,7 @@ from imutils.video import VideoStream
 import pickle
 
 
-face_cascade = cv2.CascadeClassifier('E:\python\opencv\cascades\data\haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('cascades\data\haarcascade_frontalface_default.xml')
 recognizer = cv2.face.LBPHFaceRecognizer_create()
 recognizer.read("trainner.yml")
 
