@@ -11,7 +11,11 @@ Recognition of face live from webcam
 > Create a folder named as "image" 
 > Your image folder should like..
 ![sc1](https://user-images.githubusercontent.com/36638657/44214919-d671a480-a18e-11e8-9382-8b3a2e2cea25.png)
-
+- Goto cmd/powershell type
+> python face_rec_cv.py
+- After execution completed type following command
+> python face_det_cv.py
+- Volaa !!
 
 
 # Video 
